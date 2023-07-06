@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>helloworld</name>
+    <displayName><![CDATA[Hola Mundo]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Mi primer modulo en la Home Page]]></description>
+    <author><![CDATA[]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>
