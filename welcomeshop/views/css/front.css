@@ -1,0 +1,11 @@
+.welcomeshop {
+    text-align: center;
+    background: #fff;
+    border: 1px solid #d6d4d4;
+    padding: 15px;
+    margin: 30px 0;
+}
+
+.welcomeshop p span {
+    font-size: 32px;
+}
